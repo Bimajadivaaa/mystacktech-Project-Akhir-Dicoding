@@ -73,5 +73,19 @@ TechStack(
     image: UIImage(named: "python")!,
     description: "Python is a versatile and widely-used high-level programming language known for its simplicity, readability, and vast community support. Created in the late 1980s, Python has gained popularity due to its ease of learning, wide range of applications, and strong emphasis on code readability. It is used in various domains, including web development, data analysis, scientific computing, machine learning, automation, and more.",
     release_date: "1980",
-    type_stack: "Build a Machine Learning & AI.")
+    type_stack: "Build a Machine Learning & AI."),
+TechStack(
+    id: 8,
+    name: "Java",
+    image: UIImage(named: "java")!,
+    description: "Java is a widely-used, high-level, object-oriented programming language known for its portability, versatility, and robustness. It was developed by James Gosling and his team at Sun Microsystems (later acquired by Oracle Corporation) and released in 1995. Java's design principles focus on the concept of write once, run anywhere, which means that Java code can be written on one platform and executed on any other platform that supports Java, without the need for recompilation.",
+    release_date: "1996",
+    type_stack: "Build a software"),
+TechStack(
+    id: 8,
+    name: "Php",
+    image: UIImage(named: "php")!,
+    description: "PHP, originally standing for Personal Home Page, is a server-side scripting language commonly utilized for developing dynamic web applications. Now interpreted as PHP: Hypertext Preprocessor, PHP focuses on server-side data processing, generating dynamic content that is subsequently delivered to user browsers.",
+    release_date: "1995",
+    type_stack: "Build a Website.")
 ]
